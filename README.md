@@ -5,17 +5,12 @@
 
 ![Game Status](https://img.shields.io/badge/Status-Beta-orange) ![Tech](https://img.shields.io/badge/Engine-Custom_Physics-red)
 
-[//]: # ()
-[//]: # (## 🎮 Game Footage)
 
-[//]: # (*&#40;Place screenshots or GIFs of gameplay here&#41;*)
+## 🎮 Game Footage
 
-[//]: # (![Gameplay Demo]&#40;./screenshots/gameplay_demo.gif&#41;)
+![Gameplay Demo](./screenshots/tank-demo.gif)
 
-[//]: # (*Caption: Multiplayer combat demonstrating raycasting lasers, particle explosions, and real-time lighting effects.*)
-
-[//]: # ()
-[//]: # (---)
+---
 
 ## 📖 Overview
 This is a top-down arcade shooter where players navigate a procedural grid-based maze to eliminate opponents. Unlike simple client-side games, this project utilizes a **Server-Authoritative Architecture**, meaning the server runs the entire physics simulation (movement, ballistics, collision) to prevent cheating and ensure consistency across all clients.
