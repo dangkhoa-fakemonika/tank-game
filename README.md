@@ -5,6 +5,7 @@
 
 ![Game Status](https://img.shields.io/badge/Status-Beta-orange) ![Tech](https://img.shields.io/badge/Engine-Custom_Physics-red)
 
+Currently not in progress cause I'm employed and pushing through my last year of uni right now.
 
 ## 🎮 Game Footage
 
